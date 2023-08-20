@@ -1,3 +1,5 @@
+![Uploading pexels-pixabay-51340.jpg…]()
+
 # MICE Imputation
  Multiple Imputation by Chained Equations on Alternative Energy Data
 
